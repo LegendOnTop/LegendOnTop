@@ -112,7 +112,19 @@ Most of my commercial work is private, so only a small portion is available publ
 
 ## 📫 Connect
 
-- **GitHub:** https://github.com/LegendOnTop
+<p align="left">
+  <a href="https://github.com/LegendOnTop">
+    <img src="https://img.shields.io/badge/GitHub-LegendOnTop-181717?style=for-the-badge&logo=github" />
+  </a>
+  <br>
+  <a href="https://discord.gg/recaptcha">
+    <img src="https://img.shields.io/badge/Discord%20Server-discord.gg%2Frecaptcha-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://discord.com/users/766665610049486868">
+    <img src="https://img.shields.io/badge/Discord-@legend-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
